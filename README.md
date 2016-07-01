@@ -1,14 +1,12 @@
 # blast-furnace
 
-A Clojure library designed to ... well, that part is up to you.
+[![Clojars Project](https://img.shields.io/clojars/v/blast-furnace.svg)](https://clojars.org/blast-furnace)
 
-## Usage
-
-FIXME
+This is the blast furnace.
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
